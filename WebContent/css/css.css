@@ -1,0 +1,23 @@
+table,td{ border:solid 1px #B1B2B7; border-collapse:collapse; font-size:12px; vertical-align:top}
+a,a:visited{ color:lightslategray; text-decoration:none}
+.lefttop{ background:url(../images/lefttop.jpg); width:186px; height:53px; text-align:center}
+.lefttop b{  display:block; padding-top:20px; font-size:14px}
+.leftbtm{ background:url(../images/leftbtm.jpg); width:186px; height:16px;}
+ul{ margin:0px; padding:0px; list-style:none}
+.menuul{ width:120px; margin:0px auto}
+.menuul li{ background:url(../images/5.gif) no-repeat; padding-top:10px; background-position:left bottom}
+.menuul li a{ margin-left:30px}
+
+
+/*添加样式*/
+#addtable { width:90%; margin:10px auto}
+#addtable td {font-size: 12px; height:30px;}
+.left{ background:#D4E6F2; width:100px;text-align:center; vertical-align:middle}
+.right{ text-align:left }
+.right input,.right select,.right textarea{ margin:10px}
+
+/*列表样式*/
+#sqltable { width:90%; margin:10px auto}
+#sqltable td { font-size: 12px; padding: 2px; height:30px; text-align:center; vertical-align:middle}
+.title td {text-align: center; background: #D4E6F2; height:30px; border:solid 1px lightslategray; border-collapse:collapse; }
+.rows:hover{ background:#EAF4FD}
